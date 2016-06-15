@@ -1,4 +1,4 @@
-*  
+*https://github.com/ttaylordev/Overwolf/tree/master/lol-charts*
 
 # LoL Charts
 
